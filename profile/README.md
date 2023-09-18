@@ -2,9 +2,9 @@
 
 ## A project by
 
-|                                                                                    |                                                                                              |
-|:----------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
-| <a href="https://www.cwi.nl/en/"><img src="../img/cwi-logo.svg" height="90" /></a> | <a href="https://www.esciencecenter.nl/"><img src="../img/nlesc-logo.png" height="90" /></a> |
+|                                                                                                                                                                                    |                                                                                                                                                          |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <a href="https://www.cwi.nl/en/"><img src="https://raw.githubusercontent.com/DEEPDIP-project/.github/741408acacf3aa2675a5a921258d2c309d4bab9a/img/cwi-logo.svg" height="90" /></a> | <a href="https://www.esciencecenter.nl/"><img src="https://raw.githubusercontent.com/DEEPDIP-project/.github/main/img/nlesc-logo.png" height="90" /></a> |
 
 
 ## In a nutshell
