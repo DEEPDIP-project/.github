@@ -1,5 +1,12 @@
 # Discovering deep physics models with differentiable programming
 
+## A project by
+
+|                          |                                                 |
+|:------------------------:|:-----------------------------------------------:|
+| ![](../img/cwi-logo.svg) | <img src="../img/nlesc-logo.png" height="90" /> |
+
+
 ## In a nutshell
 
 ### Public
