@@ -44,6 +44,7 @@ We test our framework on turbulent fluid flows. In particular, we develop new di
 	- [Tutorial](https://muscle3.readthedocs.io/en/latest/index.html)
 - Neural differential equations
 	- On neural differential equations. [Textbook](https://arxiv.org/abs/2202.02435) by [Dr. Patrick Kidger](https://kidger.site/).
+	- Interactive tutorials on [neural closure models](https://github.com/agdestein/NeuralClosure)
 
 ### Other
 - Announcement on CWI [website](https://www.cwi.nl/en/news/escience-center-grants-cwi-project-on-differentiable-programming/) 
