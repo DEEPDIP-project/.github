@@ -26,6 +26,10 @@ We propose a new software framework to extend generic physics models with data-d
 
 We test our framework on turbulent fluid flows. In particular, we develop new differentiable wind-turbine wake models, to be used for optimal control of wind farms.
 
+## Output
+
+- [Automatic differentiation from scratch](https://blog.esciencecenter.nl/automatic-differentiation-from-scratch-23d50c699555). eScience Center blog.
+
 ## Resources
 
 - Recent articles:
@@ -40,11 +44,15 @@ We test our framework on turbulent fluid flows. In particular, we develop new di
 - General CFD:
 	- Computational methods for fluid dynamics, [Ferziger & Peric](https://link.springer.com/book/10.1007/978-3-642-56026-2).
 	- Veldman [lecture notes](https://www.math.rug.nl/~veldman/Colleges/CFD/CFDdictaat1314.pdf) on CFD.
-- MUSCLE3
+- MUSCLE3:
 	- [Tutorial](https://muscle3.readthedocs.io/en/latest/index.html)
-- Neural differential equations
+- Neural differential equations:
 	- On neural differential equations. [Textbook](https://arxiv.org/abs/2202.02435) by [Dr. Patrick Kidger](https://kidger.site/).
 	- Interactive tutorials on [neural closure models](https://github.com/agdestein/NeuralClosure)
+- PDE benchmarking:
+	- PDEBENCH: An Extensive Benchmark for Scientific Machine Learning. [arXiv](https://arxiv.org/abs/2210.07182)
+		- Includes [code repo](https://github.com/pdebench/PDEBench/tree/main)
+	- Julia package [`SciMLBenchmarks.jl`](https://docs.sciml.ai/SciMLBenchmarksOutput/stable/)
 
 ### Other
 - Announcement on CWI [website](https://www.cwi.nl/en/news/escience-center-grants-cwi-project-on-differentiable-programming/) 
